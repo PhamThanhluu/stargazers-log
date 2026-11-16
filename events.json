@@ -1,0 +1,23 @@
+[
+  {
+    "repository_name": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "html_url": "https://github.com/octocat/Hello-World",
+    "language": "HTML",
+    "stargazers_count": 2100
+  },
+  {
+    "repository_name": "github/docs",
+    "description": "The open-source repository for GitHub's documentation.",
+    "html_url": "https://github.com/github/docs",
+    "language": "JavaScript",
+    "stargazers_count": 17000
+  },
+  {
+    "repository_name": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "html_url": "https://github.com/microsoft/vscode",
+    "language": "TypeScript",
+    "stargazers_count": 170000
+  }
+]
